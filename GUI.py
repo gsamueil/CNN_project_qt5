@@ -1,7 +1,6 @@
 import sys
 import numpy as np
 from PyQt5 import uic
-
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton,QGraphicsScene, QVBoxLayout, QFileDialog,QGraphicsView
 from PyQt5.QtGui import QPixmap  # Correct import for QPixmap
 from tensorflow.keras.models import load_model

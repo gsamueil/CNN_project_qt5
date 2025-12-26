@@ -601,7 +601,7 @@ QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
     </rect>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="ali">
    <property name="geometry">
     <rect>
      <x>10</x>
